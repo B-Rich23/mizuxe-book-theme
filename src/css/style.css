@@ -37,3 +37,11 @@ body {
   color: #fff; }
   #authors .card:hover .fa {
     color: #fff; }
+
+@media (max-width: 430px) {
+  .showcase__h1 {
+    font-size: 4.5rem !important; } }
+
+@media (max-width: 767px) {
+  .card {
+    margin-bottom: 1em !important; } }
